@@ -12,7 +12,7 @@ Here's another video of exactly the same demo, created by stitching together all
 Prerequisites
 ar-drone - http://github.com/felixge/node-ar-drone:
 
-npm install ar-drone
+npm install ar-drone.
 nodecr - http://github.com/joscha/nodecr:
 
 npm install nodecr
