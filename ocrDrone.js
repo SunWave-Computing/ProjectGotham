@@ -101,6 +101,7 @@ function takeOff() {
 	});
 }
 
+// lets us when our drone is landing and then lets us know that it landed safely
 function land() {
 	console.log("Landing...");
 
