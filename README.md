@@ -8,7 +8,7 @@ OCRDrone uses the drone's video camera to continuously save camera footage to th
 Demo
 You can see a short video of this application being demoed at NodeCopter Southampton. (Skip through to 12:10).
 
-Here's another video of exactly the same demo, created by stitching together all the images captured by this application. This is what OCRDrone sees and processes.
+Here is another video of exactly the same demo, created by stitching together all the images captured by this application. This is what OCRDrone sees and processes.
 
 Prerequisites
 ar-drone - http://github.com/felixge/node-ar-drone:
